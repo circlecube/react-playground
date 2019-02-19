@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Test",
+      "description": "evan",
+      "id": 1
+    },
+    {
+      "title": "test again",
+      "description": "mine here",
+      "userId": "101287711820309204128",
+      "id": 2
+    },
+    {
+      "title": "code reuse 2",
+      "description": "desc 2",
+      "id": 4
+    },
+    {
+      "title": "another stream",
+      "description": "here it is",
+      "userId": "101287711820309204128",
+      "id": 5
+    }
+  ]
+}
